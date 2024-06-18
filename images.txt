@@ -1,6 +1,4 @@
-nginx
-mysql
-redis
-rabbitmq
-msssqlserver
 mcr.microsoft.com/mssql/server:2022-latest
+apache/rocketmq
+zookeeper
+mongo
